@@ -49,7 +49,7 @@ My Current Workstation Specification </h2>
 
 <div align="center">
 
-![xrths wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xrths&layout=compact&theme=synthwave&v=2)
+![xrths wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xrths&layout=compact&theme=synthwave&v=2&langs_count=20)
 
 </div>
 
